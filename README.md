@@ -1,0 +1,1 @@
+# jerrycoin.sol
